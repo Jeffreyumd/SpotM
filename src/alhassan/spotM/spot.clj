@@ -3,15 +3,7 @@
             [clojure.data.csv :as csv]
             [clojure.java.io :as io]
             [clojure.xml :as xml]
-            [clojure.string :as string])
-  (:gen-class))
-
-
-
-
-(defn -main [args])
-
-
+            [clojure.string :as string]))
 
 
 (defn load-crime-data []
@@ -27,7 +19,7 @@
 
 (def crime-data (load-crime-data))
 
-(def crime-sample (take 1000 crime-data))
+
 
 
 
@@ -68,11 +60,19 @@
                  :content ["1"]}]
                (map crime-to-gmaps-marker crimes)))]))
 
+(def crime-sample (take 30 crime-data))
 
-;; load crime data
-(def sample-kml (crimes-to-kml crime-sample))
-;; write to crime_map.kml
-(spit "crime_map.kml" (with-out-str (xml/emit sample-kml)))
+(defn dump-sample []
+  (let [sample-kml (crimes-to-kml crime-sample)
+        ]
+    (spit "crime_map.kml" (with-out-str (xml/emit sample-kml)))))
 
-(def full-kml (crimes-to-kml crime-data))
-(spit "full_crime_map.kml" (with-out-str (xml/emit full-kml)))
+
+(if true
+  (do
+    (* 2 3)
+    (* 2 3))
+  b)
+(defn -main []
+  (dump-sample)
+  (println "data has been dumped"))
