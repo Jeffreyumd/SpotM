@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b702e7-2dcc-4e80-94ca-7ce365b79310" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_neovisionaries_nv_i18n_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_0_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_match_0_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_clojure_1_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_core_specs_alpha_0_1_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_data_csv_0_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_java_data_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_spec_alpha_0_1_143.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_tools_logging_0_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_immutables_encode_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_immutables_value_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_immutables_vavr_vavr_encodings_0_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__se_michaelthelin_spotify_spotify_web_api_java_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alhassan/spotM/spot.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__incanter_incanter_1_9_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpotM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpotM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alhassan/spotM/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alhassan/spotM/spot.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/alhassan/spotM/spot.clj" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +20,10 @@
     <session id="-858478355">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -74,43 +47,43 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="clj" value="2695" />
+          <entry key="clj" value="3162" />
           <entry key="gitignore" value="39" />
-          <entry key="java" value="319" />
-          <entry key="xml" value="26" />
+          <entry key="java" value="320" />
+          <entry key="xml" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Clojure" value="2695" />
-          <entry key="JAVA" value="319" />
+          <entry key="Clojure" value="3162" />
+          <entry key="JAVA" value="320" />
           <entry key="PLAIN_TEXT" value="39" />
-          <entry key="XML" value="26" />
+          <entry key="XML" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alhassan/spotM/spot.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-333">
-              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+            <state relative-caret-position="30">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/alhassan/spotM/spot.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -129,21 +102,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alhassan/spotM/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/requests/authorization/client_credentials/ClientCredentialsRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="270">
               <caret line="26" column="43" selection-start-line="25" selection-start-column="36" selection-end-line="26" selection-end-column="43" />
             </state>
           </provider>
@@ -152,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/model_objects/credentials/ClientCredentials.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="390">
               <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
               <folding>
                 <element signature="e#957#958#0" expanded="true" />
@@ -165,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/SpotifyApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
+            <state relative-caret-position="5070">
               <caret line="409" column="24" selection-start-line="409" selection-start-column="24" selection-end-line="410" selection-end-column="23" />
               <folding>
                 <element signature="e#8462#8463#0" expanded="true" />
@@ -199,10 +160,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/alhassan/spotM/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/alhassan/spotM/spot.clj" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -219,9 +180,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,14 +193,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SpotM" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpotM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spotM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,13 +222,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543890299456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543896759410" />
     <property name="cursive.last.file.extension./Users/jeffreya/Documents/GitHub/SpotM/src" value="clj" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="ReplState" timestamp="1543890299430">{:repl-history {:ide [], :local [{:command &quot;(require '[clojure.java.data :refer [from-java]])&quot;, :offset 49, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(-&gt; client (.searchAlbums \&quot;The beatles\&quot;)\n    (.build)\n    (.execute))&quot;, :offset 69, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(from-java (-&gt; client (.searchAlbums \&quot;The beatles\&quot;)\n               (.build)\n               (.execute)))&quot;, :offset 103, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn search [query]\n  (from-java\n    (-&gt; client (.searchAlbums \&quot;The beatles\&quot;)\n        (.build)\n        (.execute))))&quot;, :offset 117, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(search \&quot;The beatles\&quot;)&quot;, :offset 22, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(-&gt; (search \&quot;The beatles\&quot;)\n    :items\n    (map :name))&quot;, :offset 54, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(-&gt;&gt; (search \&quot;The beatles\&quot;)\n    :items\n    (map :name))&quot;, :offset 55, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require (clojure.java.data :refer [from-java])\n            (clojure.data.csv :as csv)\n            (clojure.java.io :as io)))&quot;, :offset 205, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (with-open [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n    (doall\n      (csv/read-csv reader))))&quot;, :offset 129, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require [clojure.java.data :refer [from-java]]\n            [clojure.data.csv :as csv]\n            [clojure.java.io :as io]))&quot;, :offset 205, :ns &quot;user&quot;} {:command &quot;(load-crime-data)&quot;, :offset 17, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (with-open [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n    (csv/read-csv reader)))&quot;, :offset 115, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(in-ns 'alhassan.spotM.spot)&quot;, :offset 28, :ns &quot;user&quot;} {:command &quot;(defn load-crime-data []\n  (let [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n    (csv/read-csv reader)))&quot;, :offset 109, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(take 10 (load-crime-data))&quot;, :offset 27, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (let [csv-data-&gt;maps (fn [csv-data]\n                         (map zipmap\n                              (-&gt;&gt; (first csv-data) ;; First row is the header\n                                   (map keyword) ;; Drop if you want string keys instead\n                                   repeat)\n                              (rest csv-data)))]\n    (with-open [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n      (doall\n        (csv-data-&gt;maps (csv/read-csv reader))))))&quot;, :offset 488, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-data (load-crime-data))&quot;, :offset 34, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(take 5 crime-data)&quot;, :offset 19, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn format-for-copy-paste-map [crime]\n  (str\n    (:Lat crime)\n    \&quot; \&quot;\n    (:Long crime)\n    \&quot; \&quot;\n    \&quot;cross2\&quot;\n    \&quot; \&quot;\n    \&quot;red\&quot;\n    \&quot; \&quot;\n    \&quot;1\&quot;\n    (:OFFENSE_DESCRIPTION crime)))&quot;, :offset 179, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map format-for-copy-paste-map crime-sample)&quot;, :offset 44, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(String/join \&quot;\\n\&quot; (map format-for-copy-paste-map crime-sample))&quot;, :offset 63, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn format-for-copy-paste-map [crime]\n  (str\n    (:Long crime)\n    \&quot; \&quot;\n    (:Lat crime)\n    \&quot; \&quot;\n    \&quot;cross2\&quot;\n    \&quot; \&quot;\n    \&quot;red\&quot;\n    \&quot; \&quot;\n    \&quot;1\&quot;\n    \&quot; \&quot;\n    (:OFFENSE_DESCRIPTION crime)))&quot;, :offset 187, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn format-for-copy-paste-map [crime]\n  (str\n    (:Lat crime)\n    \&quot; \&quot;\n    (:Long crime)\n    \&quot; \&quot;\n    \&quot;cross2\&quot;\n    \&quot; \&quot;\n    \&quot;red\&quot;\n    \&quot; \&quot;\n    \&quot;1\&quot;\n    \&quot; \&quot;\n    (:OFFENSE_DESCRIPTION crime)))&quot;, :offset 187, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(println  (String/join \&quot;\\n\&quot; (map format-for-copy-paste-map crime-sample)))&quot;, :offset 74, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require [clojure.java.data :refer [from-java]]\n            [clojure.data.csv :as csv]\n            [clojure.java.io :as io]\n            [clojure.xml :as xml]))&quot;, :offset 239, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit {:tag p})&quot;, :offset 19, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit {:tag \&quot;p\&quot;})&quot;, :offset 21, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;p\&quot;\n   :attrs {:color \&quot;red\&quot;}\n   :content []})&quot;, :offset 63, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}]}]})&quot;, :offset 212, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content [1]}]}]})&quot;, :offset 294, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content 1}]}]})&quot;, :offset 292, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content \&quot;1\&quot;}]}]})&quot;, :offset 294, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn elem [name attrs inner]\n  {:tag name\n   :attrs attrs\n   :content inner})&quot;, :offset 78, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit style-elem)&quot;, :offset 21, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require [clojure.java.data :refer [from-java]]\n            [clojure.data.csv :as csv]\n            [clojure.java.io :as io]\n            [clojure.xml :as xml]\n            [clojure.string :as string]))&quot;, :offset 279, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn elem [name attrs inner]\n  (when (not (sequential? inner))\n    (throw (IllegalArgumentException.\n             (str \&quot;Inner needs to be a vector. Called with [\&quot;\n                  (string/join \&quot;, \&quot; [name attrs inner])\n                  \&quot;]\&quot;))))\n  {:tag name\n   :attrs attrs\n   :content inner})&quot;, :offset 294, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content [\&quot;1\&quot;]}]}]})&quot;, :offset 296, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def style-elem\n  (elem \&quot;Style\&quot; {:id \&quot;crime_pin\&quot;}\n        [(elem \&quot;IconStyle\&quot; {}\n               [(elem \&quot;Icon\&quot; {}\n                      (elem \&quot;href\&quot;\n                            {}\n                            [\&quot;https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png\&quot;]))])]))&quot;, :offset 277, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def style-elem\n  (elem \&quot;Style\&quot; {:id \&quot;crime_pin\&quot;}\n        [(elem \&quot;IconStyle\&quot; {}\n               [(elem \&quot;Icon\&quot; {}\n                      [(elem \&quot;href\&quot;\n                             {}\n                             [\&quot;https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png\&quot;])])])]))&quot;, :offset 281, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crime-to-gmaps-marker [crime]\n  (elem \&quot;Placemark\&quot; {}\n        [(elem \&quot;name\&quot; {} [(:INCIDENT_NUMBER crime)])\n         (elem \&quot;description\&quot; {} [(:OFFENSE_DESCRIPTION crime)])\n         (elem \&quot;Point\&quot; {}\n               [(elem \&quot;coordinates\&quot; {}\n                      [(str (:Lat crime)\n                            \&quot;,\&quot;\n                            (:Long crime)\n                            \&quot;,0\&quot;)])])]))&quot;, :offset 396, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content (cons {:tag \&quot;Folder\&quot;\n                   :content [{:tag \&quot;name\&quot;\n                              :content [\&quot;Boston Crime Data\&quot;]}\n                             {:tag \&quot;visibility\&quot;\n                              :content [\&quot;1\&quot;]}]}\n                  (map crime-to-gmaps-marker crime-sample))})&quot;, :offset 370, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(count crime-sample)&quot;, :offset 20, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;crime_map.kml\&quot; sample-kml)&quot;, :offset 33, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;crime_map.kml\&quot; (xml/emit sample-kml))&quot;, :offset 44, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crime-to-gmaps-marker [crime]\n  (elem \&quot;Placemark\&quot; {}\n        [(elem \&quot;name\&quot; {} [(:INCIDENT_NUMBER crime)])\n         (elem \&quot;description\&quot; {} [(:OFFENSE_DESCRIPTION crime)])\n         (elem \&quot;Point\&quot; {}\n               [(elem \&quot;coordinates\&quot; {}\n                      [(str (:Long crime)\n                            \&quot;,\&quot;\n                            (:Lat crime)\n                            \&quot;,0\&quot;)])])]))&quot;, :offset 396, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content (cons {:tag \&quot;Folder\&quot;\n                   :content [{:tag \&quot;name\&quot;\n                              :content [\&quot;Boston Crime Data\&quot;]}\n                             {:tag \&quot;visibility\&quot;\n                              :content [\&quot;1\&quot;]}]}\n                  (map crime-to-gmaps-marker crimes))})&quot;, :offset 383, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}\n                       (map crime-to-gmaps-marker crimes)]}})&quot;, :offset 357, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}\n                       ~@(map crime-to-gmaps-marker crimes)]}})&quot;, :offset 359, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content (concat [{:tag \&quot;name\&quot;\n                                :content [\&quot;Boston Crime Data\&quot;]}\n                               {:tag \&quot;visibility\&quot;\n                                :content [\&quot;1\&quot;]} ]\n                              (map crime-to-gmaps-marker crimes))}})&quot;, :offset 398, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;sample-kml&quot;, :offset 10, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content (vec (concat [{:tag \&quot;name\&quot;\n                                     :content [\&quot;Boston Crime Data\&quot;]}\n                                    {:tag \&quot;visibility\&quot;\n                                     :content [\&quot;1\&quot;]}]\n                                   (map crime-to-gmaps-marker crimes)))}})&quot;, :offset 423, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(with-out-str (xml/emit sample-kml))\n              &quot;, :offset 50, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot; (xml/emit sample-kml)\n              &quot;, :offset 37, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content (map [{:tag \&quot;name\&quot;\n                             :content [\&quot;Boston Crime Data\&quot;]}\n                            {:tag \&quot;visibility\&quot;\n                             :content [\&quot;1\&quot;]}\n                            (map crime-to-gmaps-marker crimes)])}})&quot;, :offset 383, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}\n                       ]}})&quot;, :offset 323, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}]}})&quot;, :offset 299, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  (elem \&quot;kml\&quot; {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n    [(elem \&quot;Folder\&quot; {}\n       [{:tag \&quot;name\&quot;\n         :content [\&quot;Boston Crime Data\&quot;]}\n        {:tag \&quot;visibility\&quot;\n         :content [\&quot;1\&quot;]}])]))&quot;, :offset 226, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  (elem \&quot;kml\&quot; {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n    [(elem \&quot;Folder\&quot; {}\n       (concat [{:tag \&quot;name\&quot;\n                 :content [\&quot;Boston Crime Data\&quot;]}\n                {:tag \&quot;visibility\&quot;\n                 :content [\&quot;1\&quot;]}]\n               (map crime-to-gmaps-marker crimes)))]))&quot;, :offset 309, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def full-kml (crimes-to-kml crime-data))&quot;, :offset 41, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;full_crime_map.kml\&quot; (with-out-str (xml/emit full-kml)))&quot;, :offset 62, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(count crime-data)&quot;, :offset 18, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 50 crime-data))&quot;, :offset 39, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 100 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 550 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(/ (+ 550 100) 2)&quot;, :offset 17, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 325 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(/ (+ 325 100) 2)&quot;, :offset 17, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 250 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 200 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 150 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 125 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def sample-kml (crimes-to-kml crime-sample))&quot;, :offset 45, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;crime_map.kml\&quot; (with-out-str (xml/emit sample-kml)))&quot;, :offset 59, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;crime-sample&quot;, :offset 12, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;{:A 2 :B 3}&quot;, :offset 11, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(get {:A 2 :B 3} :A)&quot;, :offset 20, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(:A {:A 2 :B 3})&quot;, :offset 16, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(partition-by :OFFENSE_CODE_GROUP crime-sample)&quot;, :offset 47, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 10000 crime-data))&quot;, :offset 42, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(max (map count (partition-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 65, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 15 crime-data))&quot;, :offset 39, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count (partition-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 59, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 105 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 1005 crime-data))&quot;, :offset 41, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 55, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 10 crime-data))&quot;, :offset 39, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(group-by :OFFENSE_CODE_GROUP crime-sample)&quot;, :offset 43, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count (map vals (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 66, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map vals (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 54, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(first (map vals (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 62, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(first (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 51, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(first \n  (map second \n       (map vals (group-by :OFFENSE_CODE_GROUP crime-sample))))&quot;, :offset 86, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map second \n     (map vals (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 73, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map second \n     (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 62, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 1000 crime-data))&quot;, :offset 41, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count\n     (map second \n          (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 84, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-sample)]\n  [name (count crimes)])&quot;, :offset 89, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(into {} \n      (for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-sample)]\n        [name (count crimes)]))&quot;, :offset 112, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(into {} \n      (for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-data)]\n        [name (count crimes)]))&quot;, :offset 110, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(into {} \n      (for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-data)]\n        [name crimes]))&quot;, :offset 102, :ns &quot;alhassan.spotM.spot&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1543890387112">{:repl-history {:ide [], :local [{:command &quot;(-&gt; client (.searchAlbums \&quot;The beatles\&quot;)\n    (.build)\n    (.execute))&quot;, :offset 69, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(from-java (-&gt; client (.searchAlbums \&quot;The beatles\&quot;)\n               (.build)\n               (.execute)))&quot;, :offset 103, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn search [query]\n  (from-java\n    (-&gt; client (.searchAlbums \&quot;The beatles\&quot;)\n        (.build)\n        (.execute))))&quot;, :offset 117, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(search \&quot;The beatles\&quot;)&quot;, :offset 22, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(-&gt; (search \&quot;The beatles\&quot;)\n    :items\n    (map :name))&quot;, :offset 54, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(-&gt;&gt; (search \&quot;The beatles\&quot;)\n    :items\n    (map :name))&quot;, :offset 55, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require (clojure.java.data :refer [from-java])\n            (clojure.data.csv :as csv)\n            (clojure.java.io :as io)))&quot;, :offset 205, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (with-open [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n    (doall\n      (csv/read-csv reader))))&quot;, :offset 129, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require [clojure.java.data :refer [from-java]]\n            [clojure.data.csv :as csv]\n            [clojure.java.io :as io]))&quot;, :offset 205, :ns &quot;user&quot;} {:command &quot;(load-crime-data)&quot;, :offset 17, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (with-open [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n    (csv/read-csv reader)))&quot;, :offset 115, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (let [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n    (csv/read-csv reader)))&quot;, :offset 109, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(take 10 (load-crime-data))&quot;, :offset 27, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn load-crime-data []\n  (let [csv-data-&gt;maps (fn [csv-data]\n                         (map zipmap\n                              (-&gt;&gt; (first csv-data) ;; First row is the header\n                                   (map keyword) ;; Drop if you want string keys instead\n                                   repeat)\n                              (rest csv-data)))]\n    (with-open [reader (io/reader \&quot;crime_incident_reports.csv\&quot;)]\n      (doall\n        (csv-data-&gt;maps (csv/read-csv reader))))))&quot;, :offset 488, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-data (load-crime-data))&quot;, :offset 34, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(take 5 crime-data)&quot;, :offset 19, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn format-for-copy-paste-map [crime]\n  (str\n    (:Lat crime)\n    \&quot; \&quot;\n    (:Long crime)\n    \&quot; \&quot;\n    \&quot;cross2\&quot;\n    \&quot; \&quot;\n    \&quot;red\&quot;\n    \&quot; \&quot;\n    \&quot;1\&quot;\n    (:OFFENSE_DESCRIPTION crime)))&quot;, :offset 179, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map format-for-copy-paste-map crime-sample)&quot;, :offset 44, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(String/join \&quot;\\n\&quot; (map format-for-copy-paste-map crime-sample))&quot;, :offset 63, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn format-for-copy-paste-map [crime]\n  (str\n    (:Long crime)\n    \&quot; \&quot;\n    (:Lat crime)\n    \&quot; \&quot;\n    \&quot;cross2\&quot;\n    \&quot; \&quot;\n    \&quot;red\&quot;\n    \&quot; \&quot;\n    \&quot;1\&quot;\n    \&quot; \&quot;\n    (:OFFENSE_DESCRIPTION crime)))&quot;, :offset 187, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn format-for-copy-paste-map [crime]\n  (str\n    (:Lat crime)\n    \&quot; \&quot;\n    (:Long crime)\n    \&quot; \&quot;\n    \&quot;cross2\&quot;\n    \&quot; \&quot;\n    \&quot;red\&quot;\n    \&quot; \&quot;\n    \&quot;1\&quot;\n    \&quot; \&quot;\n    (:OFFENSE_DESCRIPTION crime)))&quot;, :offset 187, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(println  (String/join \&quot;\\n\&quot; (map format-for-copy-paste-map crime-sample)))&quot;, :offset 74, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require [clojure.java.data :refer [from-java]]\n            [clojure.data.csv :as csv]\n            [clojure.java.io :as io]\n            [clojure.xml :as xml]))&quot;, :offset 239, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit {:tag p})&quot;, :offset 19, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit {:tag \&quot;p\&quot;})&quot;, :offset 21, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;p\&quot;\n   :attrs {:color \&quot;red\&quot;}\n   :content []})&quot;, :offset 63, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}]}]})&quot;, :offset 212, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content [1]}]}]})&quot;, :offset 294, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content 1}]}]})&quot;, :offset 292, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content \&quot;1\&quot;}]}]})&quot;, :offset 294, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn elem [name attrs inner]\n  {:tag name\n   :attrs attrs\n   :content inner})&quot;, :offset 78, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit style-elem)&quot;, :offset 21, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(ns alhassan.spotM.spot\n  (:import (com.wrapper.spotify SpotifyApi$Builder))\n  (:require [clojure.java.data :refer [from-java]]\n            [clojure.data.csv :as csv]\n            [clojure.java.io :as io]\n            [clojure.xml :as xml]\n            [clojure.string :as string]))&quot;, :offset 279, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn elem [name attrs inner]\n  (when (not (sequential? inner))\n    (throw (IllegalArgumentException.\n             (str \&quot;Inner needs to be a vector. Called with [\&quot;\n                  (string/join \&quot;, \&quot; [name attrs inner])\n                  \&quot;]\&quot;))))\n  {:tag name\n   :attrs attrs\n   :content inner})&quot;, :offset 294, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content [{:tag \&quot;Folder\&quot;\n              :content [{:tag \&quot;name\&quot;\n                         :content [\&quot;KML Circle Generator Output\&quot;]}\n                        {:tag \&quot;visibility\&quot;\n                         :content [\&quot;1\&quot;]}]}]})&quot;, :offset 296, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def style-elem\n  (elem \&quot;Style\&quot; {:id \&quot;crime_pin\&quot;}\n        [(elem \&quot;IconStyle\&quot; {}\n               [(elem \&quot;Icon\&quot; {}\n                      (elem \&quot;href\&quot;\n                            {}\n                            [\&quot;https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png\&quot;]))])]))&quot;, :offset 277, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def style-elem\n  (elem \&quot;Style\&quot; {:id \&quot;crime_pin\&quot;}\n        [(elem \&quot;IconStyle\&quot; {}\n               [(elem \&quot;Icon\&quot; {}\n                      [(elem \&quot;href\&quot;\n                             {}\n                             [\&quot;https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png\&quot;])])])]))&quot;, :offset 281, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crime-to-gmaps-marker [crime]\n  (elem \&quot;Placemark\&quot; {}\n        [(elem \&quot;name\&quot; {} [(:INCIDENT_NUMBER crime)])\n         (elem \&quot;description\&quot; {} [(:OFFENSE_DESCRIPTION crime)])\n         (elem \&quot;Point\&quot; {}\n               [(elem \&quot;coordinates\&quot; {}\n                      [(str (:Lat crime)\n                            \&quot;,\&quot;\n                            (:Long crime)\n                            \&quot;,0\&quot;)])])]))&quot;, :offset 396, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(xml/emit\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content (cons {:tag \&quot;Folder\&quot;\n                   :content [{:tag \&quot;name\&quot;\n                              :content [\&quot;Boston Crime Data\&quot;]}\n                             {:tag \&quot;visibility\&quot;\n                              :content [\&quot;1\&quot;]}]}\n                  (map crime-to-gmaps-marker crime-sample))})&quot;, :offset 370, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(count crime-sample)&quot;, :offset 20, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;crime_map.kml\&quot; sample-kml)&quot;, :offset 33, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;crime_map.kml\&quot; (xml/emit sample-kml))&quot;, :offset 44, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crime-to-gmaps-marker [crime]\n  (elem \&quot;Placemark\&quot; {}\n        [(elem \&quot;name\&quot; {} [(:INCIDENT_NUMBER crime)])\n         (elem \&quot;description\&quot; {} [(:OFFENSE_DESCRIPTION crime)])\n         (elem \&quot;Point\&quot; {}\n               [(elem \&quot;coordinates\&quot; {}\n                      [(str (:Long crime)\n                            \&quot;,\&quot;\n                            (:Lat crime)\n                            \&quot;,0\&quot;)])])]))&quot;, :offset 396, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content (cons {:tag \&quot;Folder\&quot;\n                   :content [{:tag \&quot;name\&quot;\n                              :content [\&quot;Boston Crime Data\&quot;]}\n                             {:tag \&quot;visibility\&quot;\n                              :content [\&quot;1\&quot;]}]}\n                  (map crime-to-gmaps-marker crimes))})&quot;, :offset 383, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}\n                       (map crime-to-gmaps-marker crimes)]}})&quot;, :offset 357, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}\n                       ~@(map crime-to-gmaps-marker crimes)]}})&quot;, :offset 359, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content (concat [{:tag \&quot;name\&quot;\n                                :content [\&quot;Boston Crime Data\&quot;]}\n                               {:tag \&quot;visibility\&quot;\n                                :content [\&quot;1\&quot;]} ]\n                              (map crime-to-gmaps-marker crimes))}})&quot;, :offset 398, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;sample-kml&quot;, :offset 10, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content (vec (concat [{:tag \&quot;name\&quot;\n                                     :content [\&quot;Boston Crime Data\&quot;]}\n                                    {:tag \&quot;visibility\&quot;\n                                     :content [\&quot;1\&quot;]}]\n                                   (map crime-to-gmaps-marker crimes)))}})&quot;, :offset 423, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(with-out-str (xml/emit sample-kml))\n              &quot;, :offset 50, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot; (xml/emit sample-kml)\n              &quot;, :offset 37, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content (map [{:tag \&quot;name\&quot;\n                             :content [\&quot;Boston Crime Data\&quot;]}\n                            {:tag \&quot;visibility\&quot;\n                             :content [\&quot;1\&quot;]}\n                            (map crime-to-gmaps-marker crimes)])}})&quot;, :offset 383, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}\n                       ]}})&quot;, :offset 323, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  {:tag \&quot;kml\&quot;\n   :attrs {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n   :content {:tag \&quot;Folder\&quot;\n             :content [{:tag \&quot;name\&quot;\n                        :content [\&quot;Boston Crime Data\&quot;]}\n                       {:tag \&quot;visibility\&quot;\n                        :content [\&quot;1\&quot;]}]}})&quot;, :offset 299, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  (elem \&quot;kml\&quot; {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n    [(elem \&quot;Folder\&quot; {}\n       [{:tag \&quot;name\&quot;\n         :content [\&quot;Boston Crime Data\&quot;]}\n        {:tag \&quot;visibility\&quot;\n         :content [\&quot;1\&quot;]}])]))&quot;, :offset 226, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(defn crimes-to-kml [crimes]\n  (elem \&quot;kml\&quot; {:xmlns \&quot;http://www.opengis.net/kml/2.2\&quot;}\n    [(elem \&quot;Folder\&quot; {}\n       (concat [{:tag \&quot;name\&quot;\n                 :content [\&quot;Boston Crime Data\&quot;]}\n                {:tag \&quot;visibility\&quot;\n                 :content [\&quot;1\&quot;]}]\n               (map crime-to-gmaps-marker crimes)))]))&quot;, :offset 309, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def full-kml (crimes-to-kml crime-data))&quot;, :offset 41, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;full_crime_map.kml\&quot; (with-out-str (xml/emit full-kml)))&quot;, :offset 62, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(count crime-data)&quot;, :offset 18, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 50 crime-data))&quot;, :offset 39, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 100 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 550 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(/ (+ 550 100) 2)&quot;, :offset 17, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 325 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(/ (+ 325 100) 2)&quot;, :offset 17, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 250 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 200 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 150 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 125 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def sample-kml (crimes-to-kml crime-sample))&quot;, :offset 45, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(spit \&quot;crime_map.kml\&quot; (with-out-str (xml/emit sample-kml)))&quot;, :offset 59, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;crime-sample&quot;, :offset 12, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;{:A 2 :B 3}&quot;, :offset 11, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(get {:A 2 :B 3} :A)&quot;, :offset 20, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(:A {:A 2 :B 3})&quot;, :offset 16, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(partition-by :OFFENSE_CODE_GROUP crime-sample)&quot;, :offset 47, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 10000 crime-data))&quot;, :offset 42, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(max (map count (partition-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 65, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 15 crime-data))&quot;, :offset 39, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count (partition-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 59, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 105 crime-data))&quot;, :offset 40, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 1005 crime-data))&quot;, :offset 41, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 55, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 10 crime-data))&quot;, :offset 39, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(group-by :OFFENSE_CODE_GROUP crime-sample)&quot;, :offset 43, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count (map vals (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 66, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map vals (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 54, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(first (map vals (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 62, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(first (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 51, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(first \n  (map second \n       (map vals (group-by :OFFENSE_CODE_GROUP crime-sample))))&quot;, :offset 86, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map second \n     (map vals (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 73, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map second \n     (group-by :OFFENSE_CODE_GROUP crime-sample))&quot;, :offset 62, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(def crime-sample (take 1000 crime-data))&quot;, :offset 41, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(map count\n     (map second \n          (group-by :OFFENSE_CODE_GROUP crime-sample)))&quot;, :offset 84, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-sample)]\n  [name (count crimes)])&quot;, :offset 89, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(into {} \n      (for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-sample)]\n        [name (count crimes)]))&quot;, :offset 112, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(into {} \n      (for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-data)]\n        [name (count crimes)]))&quot;, :offset 110, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(into {} \n      (for [[name crimes] (group-by :OFFENSE_CODE_GROUP crime-data)]\n        [name crimes]))&quot;, :offset 102, :ns &quot;alhassan.spotM.spot&quot;} {:command &quot;(in-ns 'alhassan.spotM.spot)&quot;, :offset 28, :ns &quot;user&quot;} {:command &quot;(filter (fn [c] (= \&quot;HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE\&quot;\n                   (:OFFENSE_CODE_GROUP c)))\n        crime-data)&quot;, :offset 127, :ns &quot;alhassan.spotM.spot&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -345,47 +318,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543879532158</updated>
-      <workItem from="1543879534010" duration="7934000" />
+      <workItem from="1543879534010" duration="7995000" />
+      <workItem from="1543895597077" duration="1319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7934000" />
+    <option name="totallyTimeSpent" value="9314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17739628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.06987952" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06987952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Leiningen" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="REPL" side_tool="true" visible="true" weight="0.31688127" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Leiningen" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="REPL" order="10" side_tool="true" visible="true" weight="0.31688127" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,45 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="168" column="42" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/model_objects/credentials/ClientCredentials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/requests/authorization/client_credentials/ClientCredentialsRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="26" column="43" selection-start-line="25" selection-start-column="36" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/SpotifyApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="409" column="24" selection-start-line="409" selection-start-column="24" selection-end-line="410" selection-end-column="23" />
-          <folding>
-            <element signature="e#8462#8463#0" expanded="true" />
-            <element signature="e#8490#8491#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alhassan/spotM/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -455,6 +390,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/requests/authorization/client_credentials/ClientCredentialsRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="43" selection-start-line="25" selection-start-column="36" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/model_objects/credentials/ClientCredentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/se/michaelthelin/spotify/spotify-web-api-java/2.1.1/spotify-web-api-java-2.1.1-sources.jar!/com/wrapper/spotify/SpotifyApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5070">
+          <caret line="409" column="24" selection-start-line="409" selection-start-column="24" selection-end-line="410" selection-end-column="23" />
+          <folding>
+            <element signature="e#8462#8463#0" expanded="true" />
+            <element signature="e#8490#8491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alhassan/spotM/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/crime_map.kml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -464,22 +445,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        <state relative-caret-position="30">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/alhassan/spotM/spot.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

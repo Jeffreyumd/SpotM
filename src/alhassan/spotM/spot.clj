@@ -1,32 +1,18 @@
 (ns alhassan.spotM.spot
-  (:import (com.wrapper.spotify SpotifyApi$Builder))
   (:require [clojure.java.data :refer [from-java]]
             [clojure.data.csv :as csv]
             [clojure.java.io :as io]
             [clojure.xml :as xml]
-            [clojure.string :as string]))
-
-(defn make-client []
-  (let [spotifyApi (-> (SpotifyApi$Builder.)
-                     (.setClientId "33b1c0aaa872462eb101998593ecbbae")
-                     (.setClientSecret "2fb7ec1e27534c4485ffb311508a3090")
-                     (.build))
-        accessToken (-> spotifyApi
-                        (.clientCredentials)
-                        (.build)
-                        (.execute)
-                        (.getAccessToken))
-        _ (.setAccessToken spotifyApi accessToken)]
-    spotifyApi))
+            [clojure.string :as string])
+  (:gen-class))
 
 
-(def client (make-client))
 
-(defn search [query]
-  (from-java
-    (-> client (.searchAlbums "The beatles")
-        (.build)
-        (.execute))))
+
+(defn -main [args])
+
+
+
 
 (defn load-crime-data []
   (let [csv-data->maps (fn [csv-data]
@@ -43,27 +29,11 @@
 
 (def crime-sample (take 1000 crime-data))
 
-(defn format-for-copy-paste-map [crime]
-  (str
-    (:Lat crime)
-    " "
-    (:Long crime)
-    " "
-    "cross2"
-    " "
-    "red"
-    " "
-    "1"
-    " "
-    (:OFFENSE_DESCRIPTION crime)))
 
 
-(println
-  (String/join "\n" (map format-for-copy-paste-map crime-sample)))
-
-
-
-(defn elem [name attrs inner]
+(defn elem
+  " helper to creates XML elements"
+  [name attrs inner]
   (when (not (sequential? inner))
     (throw (IllegalArgumentException.
              (str "Inner needs to be a vector. Called with ["
@@ -74,7 +44,9 @@
    :content inner})
 
 
-(defn crime-to-gmaps-marker [crime]
+(defn crime-to-gmaps-marker
+  "create the XML for marker in a google map representing a crime"
+  [crime]
   (elem "Placemark" {}
         [(elem "name" {} [(:INCIDENT_NUMBER crime)])
          (elem "description" {} [(:OFFENSE_DESCRIPTION crime)])
@@ -85,7 +57,9 @@
                             (:Lat crime)
                             ",0")])])]))
 
-(defn crimes-to-kml [crimes]
+(defn crimes-to-kml
+  " convert crimes into a XML representation to an KML file for google maps "
+  [crimes]
   (elem "kml" {:xmlns "http://www.opengis.net/kml/2.2"}
     [(elem "Folder" {}
        (concat [{:tag "name"
@@ -95,8 +69,9 @@
                (map crime-to-gmaps-marker crimes)))]))
 
 
+;; load crime data
 (def sample-kml (crimes-to-kml crime-sample))
-
+;; write to crime_map.kml
 (spit "crime_map.kml" (with-out-str (xml/emit sample-kml)))
 
 (def full-kml (crimes-to-kml crime-data))

@@ -13,6 +13,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>clojars.org</id>
+            <url>https://repo.clojars.org</url>
+        </repository>
+    </repositories>
+
+
     <!-- library dependencies -->
     <dependencies>
         <dependency>
@@ -87,6 +95,13 @@
             <artifactId>data.csv</artifactId>
             <version>0.1.4</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/incanter/incanter -->
+        <dependency>
+            <groupId>incanter</groupId>
+            <artifactId>incanter</artifactId>
+            <version>1.9.3</version>
+        </dependency>
+
 
     </dependencies>
 
